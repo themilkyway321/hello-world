@@ -1,3 +1,3 @@
-#memo
+# memo
 
-##branch란 무엇일까. 
+## branch란 무엇일까. 
